@@ -276,21 +276,8 @@ figure {
   height: 100%;
 }
 
-#productos_todos_web {
-  background-image: url('../img/productos/productos_todos_web.png');
-  display: block;
-
-
-  background-size: cover;
-  background-position: center center;
-  -webkit-transform: translateZ(0);
-          transform: translateZ(0);
-  will-change: transform;
-}
-
-
 #fixed {
-  background-image: url('../img/background_fixed.png');
+  background-image: url('../img/background/background_fixed.png');
   position: fixed;
   display: block;
   top: 0;
